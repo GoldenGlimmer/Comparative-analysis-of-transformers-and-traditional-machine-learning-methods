@@ -197,3 +197,18 @@ DistilBERT обеспечивает более точную классифика
 
 ---
 
+## Источники
+
+1. AG News Classification Dataset  
+   https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
+
+2. Vaswani A. et al. *Attention Is All You Need*, 2017  
+   https://arxiv.org/abs/1706.03762
+
+3. Devlin J. et al. *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*, 2018  
+   https://arxiv.org/abs/1810.04805
+
+4. Sanh V. et al. *DistilBERT: a distilled version of BERT*, 2019  
+   https://arxiv.org/abs/1910.01108
+
+---
