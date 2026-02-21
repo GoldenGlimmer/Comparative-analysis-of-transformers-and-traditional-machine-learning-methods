@@ -102,8 +102,8 @@
 Accuracy
 
  - TF-IDF + Logistic Regression → ~91–92%
- - TF-IDF + Logistic Regression → ~91–92%
  - TF-IDF + Linear SVM → ~92–93%
+ - DistilBERT → ~94%
 
 ---
 
